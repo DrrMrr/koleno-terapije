@@ -1,4 +1,4 @@
-ddi# Raztezne vaje za koleno
+# Raztezne vaje za koleno
 
 Ta del priročnika vsebuje raztezne vaje za koleno, gleženj, nart ter zadnjo in sprednjo stran noge. Navodila so namenjena kot praktičen opomnik za izvajanje vaj po terapiji.
 
