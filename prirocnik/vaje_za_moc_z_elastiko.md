@@ -1,8 +1,8 @@
 # Vaje za moč z elastiko
 
-Ta del priročnika vsebuje vaje z elastiko za aktivacijo hoje, gležnjev, kolkov, stabilizatorjev kolena, stranske stabilizacije in funkcionalne moči.
+Ta del priročnika vsebuje vaje z elastiko za aktivacijo hoje, gležnjev, kolkov, stabilizatorjev kolena, stranske stabilizacije, funkcionalne moči in nadzorovane aktivacije kolka ob opori na stolu.
 
-Vaje z elastiko imajo svoje številčenje od 1 do 8 in niso neposredno nadaljevanje razteznih vaj 1-10.
+Vaje z elastiko imajo svoje številčenje od 1 do 12 in niso neposredno nadaljevanje razteznih vaj 1-10.
 
 ## Slikovne priloge
 
@@ -11,14 +11,32 @@ Aktualne slike za ta del priročnika:
 - [vaje za moč z elastiko 1-3](../slike/vaje_za_moc_z_elastiko_1-3.png)
 - [vaje za moč z elastiko 4-6](../slike/vaje_za_moc_z_elastiko_4-6.png)
 - [vaje za moč z elastiko 7-8](../slike/vaje_za_moc_z_elastiko_7-8.png)
+- [vaje za moč z elastiko 9-12](../slike/vaje_za_moc_z_elastiko_9-12.png)
 
 Slike so namenoma navedene kot povezave in niso vključene v Markdown dokument, da se pri predogledu ali izpisu ne prikazujejo znotraj besedila.
 
+## Pripomočki
+
+Za ta del programa so uporabni:
+
+- elastični obroč, cevka ali trak za vaje okoli gležnjev,
+- širši elastični trak iz tkanine za vajo 8, kjer je trak nameščen nad koleni,
+- stabilen stol za oporo pri vajah 8-12.
+
+Primeri materiala, ki se uporablja pri teh vajah:
+
+- [TheraBand elastični obroč oziroma cevka](https://www.vitacenter.si/izdelek/theraband-elasticni-obroc-cevka/) - za vaje, kjer je elastika okoli gležnjev.
+- [paket trakov za pilates iz tkanine](https://www.decathlon.si/p/353227-272909-paket-trakov-za-pilates-iz-tkanine-3x.html) - za vaje, kjer je bolj praktičen širši trak nad koleni.
+
+Izberi takšno jakost elastike, da lahko gib izvedeš počasi in brez kompenzacije. Premočna elastika ni boljša izbira, če zaradi nje izgubiš poravnavo trupa, medenice ali kolena.
+
 ## Splošna navodila
 
-Za vaje 1-7 je elastika nameščena okoli gležnjev. Najbolj praktičen je trak ali manšeta z ježkom, da elastika med hojo ne drsi gor ali dol.
+Za vaje 1-7 in 9-12 je elastika nameščena okoli gležnjev. Najbolj praktičen je trak ali manšeta z ježkom, da elastika med hojo ne drsi gor ali dol.
 
 Za vajo 8 uporabi širši elastični trak, nameščen nad koleni. Trak ne sme biti neposredno čez kolenski sklep.
+
+Pri vajah 9-12 uporabljaj stol samo za ravnotežje, ne za vlečenje z rokami. Bolj pomembna je kakovost aktivacije kot velikost giba.
 
 Pri vseh vajah velja:
 
@@ -415,6 +433,260 @@ Ključne točke:
 - na dnu se ne usedeš popolnoma,
 - delajo noge in zadnjica, ne križ.
 
+## Sklop 4: elastika okoli gležnjev in opora na stolu
+
+Ta dodatni sklop se izvaja na mestu ob stolu. Slika za ta sklop prikazuje vaje kot 1-4, v tem priročniku pa so zaradi zaporedja vključene kot vaje 9-12.
+
+Splošno pravilo za vse vaje v tem sklopu:
+
+- noge ne dviguješ ali odmikaš na silo,
+- ne iščeš maksimalnega raztega,
+- raje narediš manjši gib, ampak pravilno,
+- trup ostane čim bolj vzravnan,
+- medenica ostane čim bolj mirna,
+- ne nagibaš se naprej, nazaj ali vstran,
+- ne pomagaš si z zamahom,
+- ne kompenziraš z ledvenim delom,
+- stol uporabljaš samo za ravnotežje, ne za vlečenje z rokami,
+- elastike pri vračanju noge ne spustiš popolnoma,
+- gib naj bo počasen v obe smeri: pri odmiku in pri vračanju.
+
+Občutek naj bo bolj v smislu:
+
+> Nogo aktivno vodim in nadzorujem.
+
+Ne pa:
+
+> Nogo moram čim dlje potisniti.
+
+### Vaja 9: izteg noge nazaj z elastiko in oporo na stolu
+
+Namen:
+
+- aktivacija zadnjičnih mišic,
+- aktivacija iztega kolka,
+- stabilizacija stojne noge,
+- kontrola medenice in ledvenega dela.
+
+Začetni položaj:
+
+1. Elastiko namesti okoli gležnjev.
+2. Postavi se za stol ali rahlo ob stol.
+3. Z rokama ali eno roko se rahlo primi stola za ravnotežje.
+4. Trup naj bo vzravnan.
+5. Stopala naj bodo približno vzporedna.
+6. Elastika naj bo rahlo napeta.
+
+Izvedba:
+
+1. Težo prenesi na stojno nogo.
+2. Drugo nogo počasi vodi malo nazaj.
+3. Gib naj prihaja predvsem iz kolka in zadnjice, ne iz križa.
+4. Nogo vrni počasi in kontrolirano proti izhodišču.
+5. Elastike ne sprosti popolnoma.
+6. Ponovi večkrat, nato zamenjaj stran.
+
+Pomembno:
+
+- noge ne potiskaš nazaj čim dlje,
+- bok se ne rotira,
+- križ se ne usloči,
+- stojna noga ostane stabilna,
+- elastika ostane pod napetostjo,
+- manjši gib z dobro poravnavo je boljši kot velik gib s kompenzacijo.
+
+Doziranje:
+
+- 8-12 ponovitev na vsako stran,
+- 1-3 serije.
+
+### Vaja 10: bočni odmik noge z elastiko ob stolu
+
+Namen:
+
+- aktivacija stranskih mišic kolka,
+- stabilizacija medenice,
+- kontrola stojne noge,
+- nadzor kolena pri bočnem gibanju.
+
+Začetni položaj:
+
+1. Elastiko namesti okoli gležnjev.
+2. Postavi se bočno ob stol.
+3. Z eno roko se rahlo primi stola za oporo.
+4. Trup naj bo vzravnan.
+5. Stopala naj bodo usmerjena čim bolj naprej.
+6. Elastika naj bo rahlo napeta.
+
+Izvedba:
+
+1. Težo prenesi na nogo, ki ostane na tleh.
+2. Zunanjo nogo počasi vodi naravnost bočno v stran.
+3. Odmik naj bo majhen in kontroliran.
+4. Nogo počasi vrni proti izhodišču.
+5. Elastike ne sprosti popolnoma.
+6. Ponovi večkrat, nato zamenjaj stran.
+
+Pomembno:
+
+- cilj ni, da nogo dvigneš čim višje,
+- trup se ne nagne v nasprotno smer,
+- medenica ostane čim bolj vodoravna,
+- stopalo ostane čim bolj naprej,
+- elastika se pri vračanju ne sprosti popolnoma.
+
+Doziranje:
+
+- 8-12 ponovitev na vsako stran,
+- 1-3 serije.
+
+### Vaja 11: diagonalni potisk notranje noge preko zunanje noge
+
+Namen:
+
+- aktivacija notranjih in zunanjih mišic kolka,
+- stabilizacija medenice,
+- kontrola kolena,
+- koordinacija gibanja preko sredinske linije,
+- nadzor noge pri diagonalnem gibanju.
+
+Ta vaja je nekoliko zahtevnejša, ker noga potuje naprej in diagonalno preko druge noge, zato mora trup ostati zelo miren.
+
+Začetni položaj:
+
+1. Elastiko namesti okoli gležnjev.
+2. Postavi se bočno ob stol.
+3. Z eno roko se rahlo primi stola za oporo.
+4. Stol naj bo samo pomoč za ravnotežje.
+5. Trup naj bo vzravnan.
+6. Stopala naj bodo približno vzporedna.
+7. Elastika naj bo rahlo napeta.
+
+Primer:
+
+- stojiš z desno stranjo ob stolu,
+- leva noga je zunanja noga,
+- desna noga je notranja noga, bližje stolu.
+
+Izvedba - primer, ko je leva noga zunanja:
+
+1. Težo prenesi na levo zunanjo nogo.
+2. Desno notranjo nogo rahlo pokrči.
+3. Desno nogo pomakni nekoliko naprej.
+4. Nato jo počasi vodi diagonalno preko leve noge.
+5. Gib je kot potisk noge preko sredine telesa navzven.
+6. Elastika se pri tem napne.
+7. Trup ostane čim bolj miren in vzravnan.
+8. Nato desno nogo počasi vrni v začetni položaj.
+9. Elastike ne sprosti popolnoma.
+10. Ponovi večkrat.
+
+Nato se obrni in naredi enako še na drugi strani.
+
+Izvedba - druga stran:
+
+1. Če je desna noga zunanja, težo prenesi na desno nogo.
+2. Levo nogo rahlo pokrči.
+3. Levo nogo pomakni malo naprej.
+4. Nato jo počasi vodi preko desne noge v levo stran.
+5. Počasi jo vrni v začetni položaj.
+6. Elastika ostane rahlo napeta.
+
+Pomembno:
+
+- gib naj bo majhen in kontroliran,
+- ne rotiraj trupa,
+- ne nagibaj se vstran,
+- koleno stojne noge naj ne pada navznoter,
+- stopalo stojne noge ostane stabilno,
+- ne spuščaj elastike čisto do konca,
+- gib naj bo počasen tudi pri vračanju.
+
+Doziranje:
+
+- 8-12 ponovitev na vsako stran,
+- 1-3 serije.
+
+Če je vaja zahtevna za ravnotežje, začni s 6-8 počasnimi ponovitvami.
+
+### Vaja 12: kroženje z nogo z elastiko ob stolu
+
+Namen:
+
+- aktivacija kolka v več smereh,
+- aktivacija zadnjičnih mišic,
+- aktivacija stranskih stabilizatorjev kolka,
+- stabilizacija medenice,
+- kontrola kolena in gležnja,
+- koordinacija celotnega spodnjega uda.
+
+To je najbolj kompleksna vaja v tem sklopu, ker noga ne gre samo nazaj ali vstran, ampak dela kontroliran krog.
+
+Začetni položaj:
+
+1. Elastiko namesti okoli gležnjev.
+2. Postavi se bočno ob stol.
+3. Z roko se rahlo primi stola za oporo.
+4. Trup naj bo vzravnan.
+5. Medenica naj ostane čim bolj mirna.
+6. Stojna noga je stabilna.
+7. Elastika naj bo rahlo napeta.
+
+Primer:
+
+- stojiš z desnim bokom ob stolu,
+- leva noga je zunanja noga,
+- kroženje izvajaš z levo nogo.
+
+Izvedba - kroženje naprej-stran-nazaj:
+
+1. Zunanjo nogo počasi pomakni malo naprej.
+2. Nato jo vodi vstran.
+3. Potem jo počasi vodi nazaj.
+4. Nato jo vrni proti izhodiščnemu položaju.
+5. Gib naj tvori majhen, kontroliran krog.
+6. Elastika naj ostane ves čas rahlo napeta.
+7. Ne dovoli, da te elastika potegne nazaj.
+8. Ponovi več krogov v isti smeri.
+
+Izvedba - obratna smer:
+
+1. Nogo vodi rahlo nazaj.
+2. Nato vstran.
+3. Nato naprej.
+4. Nato nazaj v izhodišče.
+5. Gib ostane počasen in kontroliran.
+
+Menjava strani:
+
+1. Obrni se na drugo stran stola.
+2. Zamenjaj nogo.
+3. Enako izvedi še z drugo nogo.
+4. Najprej kroženje v eno smer, nato po potrebi še v drugo smer.
+
+Pomembno:
+
+- krog naj bo majhen,
+- ni cilj velik razpon giba,
+- trup naj ostane čim bolj miren,
+- medenica se ne sme obračati za nogo,
+- ne kompenziraj z ledvenim delom,
+- ne nagibaj se na stol,
+- elastika naj ne popusti popolnoma,
+- gib mora biti tekoč, ampak počasen.
+
+Doziranje:
+
+- 6-10 krogov v eno smer na vsako nogo,
+- nato po potrebi 6-10 krogov v drugo smer,
+- 1-2 seriji.
+
+Za začetek izberi manj ponovitev, ker je vaja koordinacijsko zahtevna.
+
+Najpomembnejše pravilo celotnega sklopa:
+
+> Manjši gib z dobro kontrolo je boljši kot večji gib z nagibanjem, zvijanjem ali kompenzacijo.
+
 ## Smiseln vrstni red izvajanja
 
 1. Hoja naprej z napeto elastiko.
@@ -425,6 +697,10 @@ Ključne točke:
 6. Diagonalno drsalno oziroma kotalkarsko gibanje naprej.
 7. Stranska rakova hoja.
 8. Vstajanje s stola z elastiko nad koleni.
+9. Izteg noge nazaj z elastiko in oporo na stolu.
+10. Bočni odmik noge z elastiko ob stolu.
+11. Diagonalni potisk notranje noge preko zunanje noge.
+12. Kroženje z nogo z elastiko ob stolu.
 
 Če izvajaš vaje po osnovnem programu za koleno in dodatne vaje z elastiko v istem dnevu, naj ima prednost kakovost izvedbe. Po potrebi naredi manj ponovitev ali izberi samo del programa, ki ti ga je priporočil terapevt.
 
@@ -440,3 +716,13 @@ Ključne točke:
 | 6 | Diagonalno drsalno gibanje | Samo naprej; na koncu se obrneš |
 | 7 | Stranska rakova hoja | V eno stran, nato v drugo stran |
 | 8 | Vstajanje s stola | Na mestu |
+| 9 | Izteg noge nazaj ob stolu | Na mestu; noga gre malo nazaj |
+| 10 | Bočni odmik noge ob stolu | Na mestu; noga gre bočno |
+| 11 | Diagonalni potisk notranje noge preko zunanje | Na mestu; noga gre naprej in diagonalno preko druge noge |
+| 12 | Kroženje z nogo ob stolu | Na mestu; majhen kontroliran krog |
+
+## Viri, uporabljeni za preverjanje
+
+- AAOS OrthoInfo, Knee Conditioning Program: splošna načela rehabilitacijske vadbe, krepitev mišic, ki podpirajo koleno, vaje za kolk, zadnjico, kvadriceps in zadnje stegenske mišice, uporaba opore za ravnotežje in opozorilo, da se bolečine pri vadbi ne ignorira. https://orthoinfo.aaos.org/globalassets/pdfs/2023-rehab_knee.pdf
+- Arthritis UK, Exercises for the knees: počasne in postopne vaje za koleno, vključno z vstajanjem s stola ter opozorilom, naj se začne počasi in postopno stopnjuje. https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-knees/
+- Artros, Koleno: slovenski pregled pogostih težav s kolenom in pomena zgodnje oziroma ustrezne obravnave. https://artros.si/tezave/koleno

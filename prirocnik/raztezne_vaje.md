@@ -68,6 +68,10 @@ Uporabni pripomočki:
 - mehka podloga ali brisača pod narti,
 - manjši valj ali zvita brisača za vaje 5-6, če je tako udobno in če ne povzroča pritiska v kolenu.
 
+Primer materiala, ki se uporablja pri teh vajah:
+
+- [trak za jogo 2,5 m](https://www.decathlon.si/p/183211-452738-trak-za-jogo-25-m-siv.html) - za vaje s pasom okoli stopala ali gležnja.
+
 ## Sklop 1: zadnje stegenske mišice
 
 ### Vaja 1: sedeči razteg zadnje stegenske mišice s pasom
@@ -493,9 +497,14 @@ Kontrolne točke:
 ## Viri, uporabljeni za preverjanje
 
 - AAOS OrthoInfo, Knee Conditioning Program: raztegi za koleno, vključno z raztegom kvadricepsa in ležečim raztegom zadnje stegenske mišice. https://orthoinfo.aaos.org/globalassets/pdfs/2023-rehab_knee.pdf
-- AAOS OrthoInfo, Knee Exercises: splošna načela, da se bolečine ne ignorira, ter poudarki pri raztegu kvadricepsa in hamstringov. https://www.orthoinfo.org/en/staying-healthy/knee-exercises/
 - NHS, How to stretch after exercising: raztegi 15-20 sekund in opozorilo, da se pri poškodbah ali zdravstvenih stanjih posvetuješ s strokovnjakom. https://www.nhs.uk/live-well/exercise/how-to-stretch-after-exercising/
 - Cambridge University Hospitals NHS, Stretches for the hip: razteg kvadricepsa na trebuhu, nevtralen položaj hrbtenice in navodilo, naj fizioterapevt vodi izbor vaj. https://www.cuh.nhs.uk/patient-information/stretches-for-the-hip/
 - MSD Manual Professional, Prone Quadriceps Stretch: razteg kvadricepsa na trebuhu s trakom/brisačo in opomba o valju tik nad kolenom za dodaten razteg. https://www.msdmanuals.com/professional/multimedia/video/prone-quadriceps-stretch
 - Merck Manual Consumer, Standing Ankle Plantarflexion Stretch: princip raztega zgornjega dela stopala in gležnja s prsti nazaj. https://www.merckmanuals.com/home/multimedia/video/standing-ankle-plantarflexion-stretch
-- PhysioNear, Child's Pose Stretch: klečeči položaj s sedenjem nazaj na pete, iztegnjenimi rokami in previdnost pri kolenskih težavah. https://physionear.com/exercises/child-pose-stretch/
+- Arthritis UK, Exercises for the knees: počasne in postopne vaje za koleno, vključno z vajami iz sedečega položaja in nadzorovanim gibanjem. https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-knees/
+- Artros, Koleno: slovenski pregled pogostih težav s kolenom in pomena pravočasne obravnave. https://artros.si/tezave/koleno
+
+## Dodatno branje
+
+- Liebscher & Bracht, vaje pri bolečinah v kolenu: dodatno branje o njihovi metodi raztezanja in samostojnega dela pri bolečinah v kolenu. Vir je komercialen oziroma metodološko specifičen, zato ni uporabljen kot glavni strokovni temelj tega priročnika. https://www.liebscher-bracht.com/schmerzlexikon/knieschmerzen/uebungen/
+- Petra Bracht in Roland Liebscher-Bracht, Koleno: odpravite bolečine sami: slovenski prevod knjige o tej metodi, uporaben kot dodatno branje. https://emka.si/products/koleno-odpravite-bolecine-sami-1
